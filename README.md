@@ -1,2 +1,1 @@
 # odoo-xpertiz-sandbox
-test
