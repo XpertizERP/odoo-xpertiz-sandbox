@@ -1,1 +1,0 @@
-see https://www.odoo.com/documentation/12.0/howtos/backend.html#security to know how to set the record rules and access rights in a CSV file
