@@ -29,4 +29,5 @@
     'demo': [
         'demo/demo.xml',
     ],
+    'auto_install' : True,
 }
